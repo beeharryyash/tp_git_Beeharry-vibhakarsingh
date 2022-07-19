@@ -10,7 +10,7 @@ def add(a,b):
 #tester si le nombre d'argument est correct
 nbr_arg=len(sys.argv)-1
 if (nbr_arg < 2):
-	print("Vous avez oublié de mettre les 2 valeurs du variable a et b")
+	print("erreur Vous avez oublié de mettre les 2 valeurs du variable a et b")
 	x=int(input("Entrer la première valeur: "))
 	y=int(input("Entrer la deuxième valeur: "))
 elif (nbr_arg > 2):
