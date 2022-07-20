@@ -43,7 +43,7 @@ git status
 on utilise la command ls
 ```
 
-# Comment executer le fichier code `addTwoInt`.
+# Comment executer le fichier code `addTwoInt.py`.
 #### Pour executer le fichier code.
 ```
 la command ./addTwoInt.py est utiliser
