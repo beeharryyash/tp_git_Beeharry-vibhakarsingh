@@ -16,7 +16,7 @@ on utillise la command ls
 on utillise la command cd github
 ```
 
-#### Cloner son projet sur son pc.
+#### Cloner son projet sur son pc dans le dossier github.
 ```
 git clone "https addresse du projet"
 exmaple : 
