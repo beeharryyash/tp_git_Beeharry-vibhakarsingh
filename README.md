@@ -38,7 +38,7 @@ on utilise la command git checkout dev
 git status
 ```
 
-#### Comment verifier si le code est bien dans le dossier dev.
+#### Comment verifier si le fichier code est bien dans le dossier dev.
 ```
 on utilise la command ls
 ```
