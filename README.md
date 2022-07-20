@@ -1,6 +1,6 @@
 # tp_git_Beeharry-vibhakarsingh
 # TP-git_2022
-
+# Comment recuperer son projet.
 #### Un dossier github est cree pour enregistrer son travail.
 ```
 mkdir github
@@ -28,31 +28,31 @@ git clone https://github.com/beeharryyash/tp_git_Beeharry-vibhakarsingh.git
 cd tp_git_Beeharry-vibhakarsingh
 ```
 
-#### Creer une branche dev,et changer vers la branche dev.
+#### Acceder la branch dev.
 ```
-git branch -c dev
-git checkout dev
+on utilise la command git checkout dev
 ```
 
-#### Verifier si on ne bien dans la branch dev
+#### Verifier si vous etre bien dans la branch dev.
 ```
 git status
 ```
 
-#### creer une branch add a partir de dev et switcher dans la branch add.
+#### Comment verifier si le code est bien dans le dossier dev.
 ```
-git checkout -b add
-```
-
-#### Verifier si vous etre bien dans la branch add.
-```
-git status
+on utilise la command ls
 ```
 
-#### Creer un fichier python ` addTwoInt.py `
+# Comment executer son code.
+#### Pour executer le code.
 ```
-touch addTwoInt.py
+la command ./addTwoInt.py est utiliser
 ```
+
+
+
+
+
 
 
 
